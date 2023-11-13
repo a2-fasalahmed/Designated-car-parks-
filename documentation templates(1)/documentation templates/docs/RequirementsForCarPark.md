@@ -26,8 +26,8 @@ TODO: Describe each use case (at least one per team member).
 | **Actors** | TODO: Driver |
 | **Assumptions** | TODO: Browser has geo location/phone.
 | **Steps** | TODO: 1. View car parks in the area
-                    2. Ask user for permission to access their location
-                    3. Give permission for geo-location
+ 2. Ask user for permission to access their location
+ 3. Give permission for geo-location
                     4.Retrieve nearest car parks from the data base
                     5. View nearest car parks in the area
 | **Variations** | TODO:Any variations in the steps of a use case |

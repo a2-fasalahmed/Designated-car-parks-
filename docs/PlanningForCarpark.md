@@ -29,4 +29,4 @@ Risk of theft or vandilism
 TODO: .
 The scope of desginated car parks in bristol are to reduce unnescessary use of private cars especially in the more populare areas such as city centre 
 As well as increase other modes of transport 
-To ensure quick and efficent modes of parking that also ensures safety
+To ensure quick and efficent modes of parking that also ensures safety without any problems or confusion 

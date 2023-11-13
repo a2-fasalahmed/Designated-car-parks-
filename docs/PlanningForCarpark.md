@@ -18,7 +18,7 @@ Emergency access options as there clearly marked which provide quick respones fo
 TODO: 
 Parking mangement systems such as a parkmobile app that gives users the oppourtinity to find and pay for parking spots in various different locations around bristol
 sercuity systems that showcase videos of surveillance solutionts that monitor and aid the designated car parks to prevent accdident or disputs
-
+Lisence plate recongnition systems that automatically dectected for acesses control and vechile tracking
 ### Expected Risks
 TODO: 
 One of the high risks that desginated cark parks could offer is poor marked parking areas that go into or block pedestrian crossings 

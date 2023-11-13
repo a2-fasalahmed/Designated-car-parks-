@@ -9,16 +9,11 @@ As a teacher i want to see the clostest carpark near my destination and the pric
 As a parent i want directions to the car park.
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+TODO: 
 Drivers: Individuals seeking parking use the app to find nearby spaces, compare prices, and estimate overall costs.
 Tourists: Travelers in new cities rely on the app to locate nearby parking, understand pricing, and plan their itineraries.
 Business Travelers: Professionals on business trips use the app to find convenient, cost-effective parking near their meetings or accommodations.
 Event Attendees: People attending events use the app to find nearby parking options, ensuring convenience and comparing prices.
-Parking Operators: Businesses managing parking facilities use the app to list spaces, update pricing, and reach potential customers efficiently.
-Local Authorities: Municipalities use the app to provide information on public parking, regulations, and analyze parking patterns for urban planning.
-Mobile App Developers: App developers integrate car park data to enhance user experiences, helping drivers find parking along their routes.
-Data Analysts: Professionals analyze parking data to derive insights, helping businesses and urban planners optimize infrastructure and pricing strategies.
-Customer Support Representatives: Support staff assist users with app-related issues, providing guidance and troubleshooting as needed.
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).

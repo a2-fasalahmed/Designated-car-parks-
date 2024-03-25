@@ -2,6 +2,9 @@
 
 ## Introduction
 TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+Incomplete Data: While the dataset provides information for many car parks, there may be instances where certain details are missing or incomplete. This can include missing capacity information or outdated fee structures.
+Accuracy: The accuracy of the data is dependent on the source it was obtained from. There may be discrepancies between the provided information and the actual conditions of the car parks.
+Updates: The dataset may not be regularly updated, so there could be changes in car park information that are not reflected in the dataset.
 
 ## Project Structure
 TODO: Provide an outline of the project folder structure and the role of each file within it.

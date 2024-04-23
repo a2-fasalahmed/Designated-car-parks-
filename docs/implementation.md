@@ -12,6 +12,13 @@ Updates: The dataset may not be regularly updated, so there could be changes in 
 TODO: Provide an outline of the project folder structure and the role of each file within it.
 provide a table listing the number of jslint warnings/reports for each module.
 
+Answer
+Bristol_car_parks.csv holds informantion of the designated car parks in bristol
+index.html, the main html files that works as an entry for the application
+data/; contains dataset file
+
+
+
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 

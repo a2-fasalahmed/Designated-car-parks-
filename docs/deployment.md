@@ -6,7 +6,7 @@ Are there any known issues?
 Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
 
 ![Insert Deployment diagram here](images/deployment.png)
-![IMG_1942](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/5e556f4f-b3e6-47d5-beb6-0de4ca54af55)
+
 
 
 

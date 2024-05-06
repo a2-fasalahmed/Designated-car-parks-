@@ -28,4 +28,5 @@ TODO: Describe the major components of your architecture. Are any particular arc
 TODO: Document each query to Bristol Open Data
 
 ![UML Class diagrams representing JSON query results](images/class1.png)
+![IMG_1942](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/5e556f4f-b3e6-47d5-beb6-0de4ca54af55)
 TODO: Repeat as necessary

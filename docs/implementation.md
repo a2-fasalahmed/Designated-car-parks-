@@ -23,6 +23,9 @@ data/; contains dataset file
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
 ![Insert your component Diagram here](images/component.png)
+![IMG_1944](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/d47d03c4-8898-460d-a68b-c6aece2cc728)
+
+
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data

@@ -30,16 +30,16 @@ Event Attendees: People attending events use the app to find nearby parking opti
  3. Give permission for geo-location
                     4.Retrieve nearest car parks from the data base
                     5. View nearest car parks in the area
-| **Variations** | TODO:Any variations in the steps of a use case |
+| **Variations** | :Any variations in the steps of a use case |
 | **Non-functional** | TODO:List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO:List of issues that remain to be resolved |
+| **Issues** | :List of issues that remain to be resolved |
 
-| TODO: UC2  | TODO: Locate nearest car park | 
+| TODO: UC2  | : Locate nearest car park | 
 | -------------------------------------- | ------------------- |
 | **Description** |  Locate nearest car park |
 | **Actors** | : Buisness Travellers |
 | **Assumptions** | : Browser has geo location/phone.
-| **Steps** | TODO: 1. View car parks in the area
+| **Steps** | : 1. View car parks in the area
                     2. Ask user for permission to access their location
                     3. Give permission for geo-location
                     4.Retrieve nearest car parks from the data base

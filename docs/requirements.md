@@ -22,17 +22,17 @@ Describe each use case (at least one per team member).
 
 | : UC1  | : Locate nearest car park | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Locate nearest car park |
-| **Actors** | TODO: Driver |
-| **Assumptions** | TODO: Browser has geo location/phone.
-| **Steps** | TODO: 1. View car parks in the area
+| **Description** | : Locate nearest car park |
+| **Actors** | : Driver |
+| **Assumptions** | : Browser has geo location/phone.
+| **Steps** | : 1. View car parks in the area
  2. Ask user for permission to access their location
  3. Give permission for geo-location
                     4.Retrieve nearest car parks from the data base
                     5. View nearest car parks in the area
-| **Variations** | TODO:Any variations in the steps of a use case |
-| **Non-functional** | TODO:List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO:List of issues that remain to be resolved |
+| **Variations** | T:Any variations in the steps of a use case |
+| **Non-functional** | :List of non-functional requirements that the use case must meet. |
+| **Issues** | :List of issues that remain to be resolved |
 
 | : UC2  | : Locate nearest car park | 
 | -------------------------------------- | ------------------- |

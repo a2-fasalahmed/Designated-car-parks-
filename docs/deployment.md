@@ -5,7 +5,8 @@ TODO: Describe the current version of the system (with version number. Include s
 Are there any known issues? 
 Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
 
-![Insert Deployment diagram here](images/deployment.png)
+![IMG_1947](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/33ef1d55-29a5-4f2e-9ac7-cdd7e9c64827)
+
 
 
 

@@ -1,4 +1,4 @@
-// Function to find nearest car park
+// Function to find the car park that is the nearest 
 async function findNearest() {
     const searchInput = document.getElementById("searchInput").value;
     // Bristol Open Data Api for designated car parks

@@ -1,7 +1,7 @@
 # Testing
 
 ## Test Plan
-TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
+ Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
 Test Case 1: Find All Car Parks Description: Verify that the application displays a list of all designated car parks upon opening. Steps:
 
 Open the web application.
@@ -33,10 +33,10 @@ Click on a specific car park name in the search results list.
 Observe the displayed information. Expected Result: A detailed view of the selected car park is displayed, including additional information like address and type (if available).
 
 Test Runs
-TODO: For each test described above, indicate the current status. 
+: For each test described above, indicate the current status. 
 Create a requirements traceability matrix to validate the completeness of the product.
 
 | Use-Case ID | Requirement ID | Test Case | Status |
 | ----------- | -------------- | --------- | ------ |
 
-TODO: Add rows for each test, current status is eg. pass/fail
+: Add rows for each test, current status is eg. pass/fail

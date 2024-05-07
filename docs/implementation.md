@@ -20,7 +20,7 @@ data/; contains dataset file
 
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+Describe the major components of your architecture. Are any particular architectural styles being used?
 
 ![IMG_1944](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/d47d03c4-8898-460d-a68b-c6aece2cc728)
 

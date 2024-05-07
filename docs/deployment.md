@@ -12,7 +12,7 @@ Describe the deployment of software components to hardware nodes using a UML Dep
 
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+ Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
 
 
 ![IMG_1940](https://github.com/a2-fasalahmed/Designated-car-parks-/assets/148769486/a734c6ab-faeb-4fe1-9188-f8e20831d76f)
